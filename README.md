@@ -1,4 +1,2 @@
-# test
 # cspe-test1
-# cspe-test1
-# test
+jenkins와 CICD 배포를 위한 git-hub test입니다.
